@@ -1,2 +1,2 @@
 # Edabit-Challenges
- Series of challenges from the Edabit
+ Series of challenges from the [Edabit](https://edabit.com/)
