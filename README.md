@@ -1,2 +1,2 @@
 # Edabit-Challenges
- Series of challenges from the [Edabit](https://edabit.com/)
+This repository is a series of programming challenges from the Edabit website where we complete 3 challenges of each level together with a partner, from the very easy level to the expert level with the C# programming language applying TDD and Pair Programming
